@@ -12,7 +12,7 @@ O projeto possui as seguintes características principais:
 
 - **Estilização com Tailwind CSS**: O projeto utiliza o Tailwind CSS para a estilização, facilitando a criação de interfaces atraentes e responsivas.
 
-- **Banco de Dados PostgreSQL**: Os dados relacionados ao Demon Slayer são armazenados em um banco de dados PostgreSQL para consulta e análise.
+- **Banco de Dados PostgreSQL**: Os dados relacionados ao Tengoku Daimakyou são armazenados em um banco de dados PostgreSQL para consulta e análise.
 
 - **Escrito em TypeScript**: O código é escrito em TypeScript para maior segurança e facilidade de manutenção.
 
